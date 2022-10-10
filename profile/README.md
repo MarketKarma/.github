@@ -1,4 +1,4 @@
-## MarketKarma: eCommerce SEO Agency in Miami, Florida
+## MarketKarma: eCommerce SEO Agency
 
 MarketKarma is an [eCommerce SEO agency](https://www.marketkarma.com) with a software development focus.   Be it billion dollar brands or startups, we've spent the last two decades crafting technology solutions and innovative search marketing strategies to propel our client’s business into the stratosphere.  We believe in the power of 'what if?'; combining our collective expertise in search engine optimization (SEO), digital strategy, eCommerce, and web development to help our clients think beyond ordinary.
 
