@@ -1,16 +1,26 @@
-## MarketKarma: eCommerce SEO Agency
+# MarketKarma: Enterprise SEO Agency | Search Marketing for E-commerce
 
-MarketKarma is an [eCommerce SEO agency](https://www.marketkarma.com) with a software development focus.   Be it billion dollar brands or startups, we've spent the last two decades crafting technology solutions and innovative search marketing strategies to propel our client’s business into the stratosphere.  We believe in the power of 'what if?'; combining our collective expertise in search engine optimization (SEO), [digital strategy](https://profiles.forbes.com/members/tech/profile/Joey-Burzynski-Founder-CTO-MarketKarma/72b6886c-bd96-4988-ad8b-14287a291009), [eCommerce](https://board.fastcompany.com/profile/Joey-Burzynski-Founder-CTO-MarketKarma/12629614-d0b7-4a8c-8076-5be2166473a0), and web development to help our clients think beyond ordinary.
+> _At MarketKarma, our client partnerships tell a story of diversity, expertise, and success. We've etched our mark across industries, tailoring unique SEO strategies for each client, whether they're globally recognized brands or emerging players. Our client roster spans industries from fashion, technology, automotive, finance, entertainment, healthcare, real estate, and beyond._
 
-Search algorithms reward rich and targeted content. Taxonomies, templates, and assets in eCommerce platforms tend to be restrictive, inherently unstable, and may not fully differentiate product facets or leverage best practice markup. Escaping these constraints is critical to communicating value to the search engines and ranking effectively.
+MarketKarma is an [SEO agency](https://www.marketkarma.com "MarketKarma: SEO Agency") with a software development focus.   Be it billion-dollar brands or startups, we've spent the last two decades crafting technology solutions and innovative search marketing strategies to propel our client’s business into the stratosphere.  We believe in the power of 'what if?'; combining our collective expertise in search engine optimization (SEO), [digital strategy](https://profiles.forbes.com/members/tech/profile/Joey-Burzynski-Founder-CTO-MarketKarma/72b6886c-bd96-4988-ad8b-14287a291009), [e-commerce](https://board.fastcompany.com/profile/Joey-Burzynski-Founder-CTO-MarketKarma/12629614-d0b7-4a8c-8076-5be2166473a0), and web development to help our clients think beyond ordinary.
 
-Clients rely on our SaaS platform, MarketReach, to algorithmically enrich and extend their digital footprint, improving their organic search visibility at scale. The results are clear: higher rankings, more traffic, and ultimately — more revenue.
+Search algorithms reward rich and targeted content. Taxonomies, templates, and assets in e-commerce platforms tend to be restrictive, inherently unstable, and may not fully differentiate product facets or leverage best practice markup. Escaping these constraints is critical to communicating value to the search engines and ranking effectively.
 
-If you're looking for an edge in the search marketing landscape, we can help. [Contact us today](https://calendarhero.to/SEO "Schedule a time to chat") to learn more about our platform and services.
+Clients rely on our SaaS platform, MarketReach, to algorithmically enrich and extend their digital footprint, improving their organic search visibility at scale. 
+
+**The results are clear: higher rankings, more traffic, and ultimately — more revenue.**
+
+If you're looking for an edge in the search marketing landscape, we can help. 
+
+[Contact us today](https://calendarhero.to/SEO "Schedule a time to chat") to learn more about our platform and services.
+
+## Up for a chat?
+
+[Schedule a Free Consultation](https://calendarhero.to/SEO "Interesting project?  We'd love to hear more.  Schedule a free SEO consult.")
   
 ## Elsewhere
   
-- 🔭 We're currently working on [SearchEngineOptimization.dev](https://searchengineoptimization.dev).
+- 🔭 We're currently working on [TechnicalSEO.io](https://technicalseo.io "Master technical SEO, from bots to bytes"), [SEO.review](https://seo.review), .
 - 📝 We periodically write articles on [Medium](https://medium.com/marketkarma "MarketKarma on Medium").
   
 ## Connect
